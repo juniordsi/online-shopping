@@ -1,13 +1,14 @@
-package com.webservice.onlineshopping;
+
+package com.onlineshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OnlineshoppingApplication {
+public class OnlineShopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OnlineshoppingApplication.class, args);
+		SpringApplication.run(OnlineShopApplication.class, args);
 	}
 
 }

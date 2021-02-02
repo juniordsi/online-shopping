@@ -1,10 +1,10 @@
-package com.webservice.onlineshopping;
+package com.onlineshop;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OnlineshoppingApplicationTests {
+class OnlineShopApplicationTests {
 
 	@Test
 	void contextLoads() {
